@@ -1,6 +1,8 @@
 // Streamlined Causal Consistency (SCC) Model
 // Copyright (c) 2016, NVIDIA Corporation.  All rights reserved.
 
+module scc
+
 ////////////////////////////////////////////////////////////////////////////////
 // =Memory model axioms=
 
